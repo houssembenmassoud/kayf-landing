@@ -1,0 +1,20 @@
+{
+  "name": "Kayf",
+  "short_name": "Kayf",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0520",
+  "theme_color": "#7B2FF7",
+  "icons": [
+    {
+      "src": "/public/kayf_app_icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/favicon.ico",
+      "sizes": "64x64 48x48 32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
